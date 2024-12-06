@@ -4,7 +4,7 @@
 
 This project is archived and thus no *longer maintained* as of 28/05/2023.
 
-A rebooted version is available at https://github.com/Darmo117/Jenealogio2.
+A rebooted version is available at https://github.com/DamiaV/Jenealogio2.
 
 ## Description
 
